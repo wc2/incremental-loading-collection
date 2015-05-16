@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>UniversalWindowPlatformToolkit.IncrementalLoadingCollection</id>
+    <version>1.0.0.0</version>
+    <title>Incremental Loading Collection</title>
+    <authors>William Cowell</authors>
+    <owners>William Cowell Consulting Limited</owners>
+    <licenseUrl>https://github.com/wc2/incremental-loading-collection/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/wc2/incremental-loading-collection</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A simple collection designed to facilitate data virtualisation in Windows Universal apps through the implementation of the ISupportIncrementalLoading.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2015 William Cowell Consulting Limited</copyright>
+    <tags>ISupportIncrementalLoading Virtualised Virtualized Data Source IncrementalLoadingCollection Virtualisation Virtualization</tags>
+  </metadata>
+</package>
