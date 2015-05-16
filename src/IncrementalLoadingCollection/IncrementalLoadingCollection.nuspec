@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>UniversalWindowPlatformToolkit.IncrementalLoadingCollection</id>
+    <id>UniversalWindowsPlatformToolkit.IncrementalLoadingCollection</id>
     <version>1.0.0.0</version>
     <title>Incremental Loading Collection</title>
     <authors>William Cowell</authors>
