@@ -21,3 +21,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ## Further Reading
 
 You can find out more about UI and data virtualisation by reading [Using virtualization (sic) with a list of grid (XAML)](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh780657.aspx) on MSDN.
+
+## Support
+
+You can request support on using this and other virtualisation techniques in UWP and Windows app by requesting a session with the author through [hack:hands()](https://www.hackhands.com/william-cowell/)
